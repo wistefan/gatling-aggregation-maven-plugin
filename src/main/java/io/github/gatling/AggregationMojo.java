@@ -1,4 +1,4 @@
-package org.wistefan.gatling;
+package io.github.gatling;
 
 import io.gatling.app.Gatling;
 import lombok.Data;
