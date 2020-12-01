@@ -5,7 +5,7 @@ Tiny maven plugin to aggregate multiple gatling reports into one.
 ## Usage
 ```
 <plugin>
-    <groupId>org.wistefan</groupId>
+    <groupId>io.github.wistefan</groupId>
     <artifactId>gatling-aggregation-maven-plugin</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <configuration>
