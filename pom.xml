@@ -4,7 +4,7 @@
 
     <groupId>io.github.wistefan</groupId>
     <artifactId>gatling-aggregation-maven-plugin</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
@@ -34,7 +34,7 @@
         <connection>scm:git:git://github.com/wistefan/gatling-aggregation-maven-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:wistefan/gatling-aggregation-maven-plugin.git</developerConnection>
         <url>https://github.com/wistefan/gatling-aggregation-maven-plugin/tree/master</url>
-        <tag>gatling-aggregation-maven-plugin-0.0.2</tag>
+        <tag>HEAD</tag>
     </scm>
     <distributionManagement>
         <snapshotRepository>
